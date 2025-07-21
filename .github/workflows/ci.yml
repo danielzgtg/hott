@@ -5,6 +5,7 @@ on:
   push:
     branches:
       - master
+      - citest
   pull_request:
 
 jobs:
